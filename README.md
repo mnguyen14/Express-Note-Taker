@@ -34,7 +34,7 @@ Initially you will see a placeholder title and body text. Upon typing a title an
 
 Here is a video of me demoing the app:
 
-[![Demo of app](https://img.www.youtube.com/vi/v=BPF0G7H-Ufg)](https://www.youtube.com/watch?v=BPF0G7H-Ufg)
+[![Demo of app](https://img.www.youtube.com/vi/BPF0G7H-Ufg)](https://www.youtube.com/watch?v=BPF0G7H-Ufg)
 
 ## License
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
